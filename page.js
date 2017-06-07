@@ -1,8 +1,8 @@
 $(document).ready(function() {
   $("#hide").hover(function(){
-    $("p").hide();
+    $("#points").hide();
   });
   $("#show").hover(function(){
-    $("p").show();
+    $("#points").show();
   });
 });
