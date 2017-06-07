@@ -2,7 +2,7 @@ $(document).ready(function() {
   $("#hide").hover(function(){
     $("#points").hide();
   });
-  $("#show").hover(function(){
+  $("#box").hover(function(){
     $("#points").show();
   });
 });
